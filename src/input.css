@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+.bg {
+    background: linear-gradient(90deg, #3C1DFF 18.63%, #14C9C9 78.88%);
+};
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
